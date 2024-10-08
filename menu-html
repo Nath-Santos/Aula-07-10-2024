@@ -11,7 +11,9 @@
     <nav>
         <ul class="menu">
           <h1>Adventure Travel</h1>
-          <img src="https://santiagoyalonso.es/wp-content/uploads/2017/04/TURISMO.jpeg"
+          <div class="container">
+        <img src="https://santiagoyalonso.es/wp-content/uploads/2017/04/TURISMO.jpeg" alt="Descrição da imagem">
+    </div>
           <h1>Venha viajar conosco e realizar todos os seus sonhos!</h1>
             <li><a href="#home">Home</a></li>
             <li><a href="#sobre">Sobre nós</a></li>
